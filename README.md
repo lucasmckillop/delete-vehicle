@@ -2,7 +2,7 @@
 
 This discord.js command will only work for those who own NAT2K15's [DMV Script](https://store.nat2k15.xyz/store/DMV-Script) and his [FiveM Bot V2](https://store.nat2k15.xyz/store/fivem-botv2).
 
-* You can use his framework bot but you may have to adjust some code, ping me in the client support channel for support on this.
+* You can use his framework bot but you may have to adjust some code, ping me in the client support channel for support in [NAT2K15's Discord](https://discord.gg/nat2k15) for help.
 
 
 # How to install
