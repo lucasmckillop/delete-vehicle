@@ -1,6 +1,8 @@
 # Search DMV Command
 
-This discord.js command will only work for those who own NAT2K15's DMV Script and his FiveM Bot V2 or Framework Bot.
+This discord.js command will only work for those who own NAT2K15's [DMV Script](https://store.nat2k15.xyz/store/DMV-Script) and his [FiveM Bot V2](https://store.nat2k15.xyz/store/fivem-botv2).
+
+* You can use his framework bot but you may have to adjust some code, ping me in the client support channel for support on this.
 
 
 # How to install
